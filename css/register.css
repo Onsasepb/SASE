@@ -1,0 +1,28 @@
+form{
+    width: 60%;
+    background-color: #381111;
+    margin: 30px auto auto;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    color: white;
+}
+body{
+    background-color: #9a1646;
+}
+input[type=text],input[type=email],input[type=password],select,textarea{
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: none;
+    padding-left: 10px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+}
+button{
+    width: 60%;
+    margin-left: 75px;
+    height: 30px;
+}
